@@ -1,4 +1,4 @@
-![Image](https://github.com/vaibhavjoc/vaibhavjoc/raw/main/Spider_Man_Double_Meme_1_1757339827939.jpeg)
+![Image](https://i.programmerhumor.io/2025/05/bdcb14346eb9d8fd5ed0c6f7d77930bc4fcba5e4adbfe3e3a0c526054fcf1dc4.jpeg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakash_satyam_06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamprakash996@gmail.com) 
 
