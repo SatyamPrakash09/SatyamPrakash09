@@ -1,5 +1,7 @@
 ![Image](https://i.programmerhumor.io/2025/05/bdcb14346eb9d8fd5ed0c6f7d77930bc4fcba5e4adbfe3e3a0c526054fcf1dc4.jpeg)
 ## 🌐 Socials:
+
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakash_satyam_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamprakash09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamprakash996@gmail.com) 
 
 # 💻 Tech Stack:
@@ -11,6 +13,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SatyamPrakash09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SatyamPrakash09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SatyamPrakash09&icon=2&color=0)](https://visitcount.itsvg.in)
