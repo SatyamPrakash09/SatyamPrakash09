@@ -1,4 +1,6 @@
-![Image](https://i.programmerhumor.io/2025/05/bdcb14346eb9d8fd5ed0c6f7d77930bc4fcba5e4adbfe3e3a0c526054fcf1dc4.jpeg)
+
+![header](https://github.com/user-attachments/assets/f88e51ef-d583-4210-a26b-7b4d1ffb8d03)
+
 ## 🌐 Socials:
 
 ## 🌐 Socials:
