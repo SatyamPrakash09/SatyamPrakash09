@@ -62,7 +62,7 @@
 </div>
 
 ##
-<!-- <img src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
