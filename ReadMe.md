@@ -12,11 +12,7 @@
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SatyamPrakash09.SatyamPrakash09&"  />
 
-  <p align="center">
-    <a href="https://github.com/SatyamPrakash09">
-      <img src="https://img.shields.io/github/followers/SatyamPrakash09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-    </a>
-  </p>
+  [![GitHub followers](https://img.shields.io/github/followers/SatyamPrakash09?style=for-the-badge)](https://github.com/SatyamPrakash09)
 </div>
 
 ### 📖 About Me
