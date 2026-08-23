@@ -21,7 +21,7 @@ jobs:
         run: |
           mkdir -p dist
           curl -L \
-            "https://gh.crafter.run/SatyamPrakash09?theme=dark&cols=150" \
+            "https://gh.crafter.run/SatyamPrakash09?theme=dark&cols=100" \
             -o dist/contribution-graph.svg
 
       - name: Push generated graph to output branch
