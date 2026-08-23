@@ -1,25 +1,33 @@
 
 <div align="center">
-  <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" />
+  <!-- <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" /> -->
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/contribution-graph.svg"
+    alt="GitHub Contribution Graph"
+  />
+</p>
   
   <br/>
 
   <h1>Hi, I'm Satyam! 👋</h1>
 
   <p align="center">
-    <strong>Mobile & Full-Stack Developer | Problem Solver | Tech Enthusiast</strong>
+    <strong>Applied AI | Agentic System |  Problem Solver | Tech Enthusiast</strong>
   </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SatyamPrakash09.SatyamPrakash09&"  />
-
-  [![GitHub followers](https://img.shields.io/github/followers/SatyamPrakash09?style=for-the-badge)](https://github.com/SatyamPrakash09)
+  <!-- <div>
+    
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=SatyamPrakash09.SatyamPrakash09&"  />
+  
+    [![GitHub followers](https://img.shields.io/github/followers/SatyamPrakash09?style=for-the-badge)](https://github.com/SatyamPrakash09)
+  </div> -->
 </div>
 
 ### 📖 About Me
 
 ```yaml
 🧑‍💻  Name        : Satyam Prakash
-🎯  Focus       : Full-Stack , Mobile Development & Applied AI
+🎯  Focus       : Applied AI Full-Stack , Mobile Development , Agentic AI
 🌱  Learning    : React Native · AI/ML Integration · IoT · ESP32 · Applied AI
 💬  Ask me about: JavaScript · TypeScript · Python · React · Langchain · Gen-AI · Applied AI · IoT · Automations
 ⚡  Fun Fact    : I don't have bugs; I just have undocumented gravitational anomalies. 🕳️
