@@ -1,31 +1,35 @@
-name: Generate Pac-Man Game
+name: Update Contribution Graph
 
 on:
-  schedule: # Run automatically every 24 hours
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - name: Download graph
+        run: |
+          mkdir -p dist
 
-      # Push the generated SVG to the output branch
-      - name: Push pacman-contribution-graph.svg to the output branch
+          curl -fL \
+            "https://gh.crafter.run/SatyamPrakash09?theme=dark&cols=80" \
+            -o dist/contribution-graph.svg
+
+          echo "Generated file:"
+          ls -lh dist/contribution-graph.svg
+
+      - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
