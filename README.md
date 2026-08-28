@@ -1,12 +1,6 @@
 
 <div align="center">
-  <!-- <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" /> -->
-  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/contribution-graph.svg"
-    alt="GitHub Contribution Graph"
-  />
-</p>
+  <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" />
   
   <br/>
 
@@ -23,8 +17,15 @@
   </div> -->
 </div>
 
-### 📖 About Me
 
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/contribution-graph.svg"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+<!--
+### 📖 About Me
 ```yaml
 🧑‍💻  Name        : Satyam Prakash
 🎯  Focus       : Applied AI Full-Stack , Mobile Development , Agentic AI
@@ -33,6 +34,7 @@
 ⚡  Fun Fact    : I don't have bugs; I just have undocumented gravitational anomalies. 🕳️
 📍  Location    : Greater Noida, India
 ```
+-->
 
 I am a passionate developer who loves building mobile applications and robust web applications. Currently, I'm diving deep into the **React Native** ecosystem and exploring the nuances of **TypeScript**.
 
