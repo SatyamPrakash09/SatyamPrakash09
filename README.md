@@ -1,188 +1,132 @@
-
 <div align="center">
-  <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" />
+  <img src="https://github.com/SatyamPrakash09/SatyamPrakash09/blob/main/header.gif" width="100%" alt="Header Animation" />
   
-  <br/>
-
-  <h1>Hi, I'm Satyam! 👋</h1>
-
-  <p align="center">
-    <strong>Applied AI | Agentic System |  Problem Solver | Tech Enthusiast</strong>
+  <br/><br/>
+  <div align="left">
+    <code>➜ /home/satyam/profile (main) ✗ ./init_profile.sh</code>
+  </div>
+  
+  <h1>Hi, I'm Satyam Prakash! 👋</h1>
+  <p>
+    <kbd>Applied AI</kbd> &nbsp;•&nbsp; <kbd>Agentic Systems</kbd> &nbsp;•&nbsp; <kbd>Full-Stack</kbd> &nbsp;•&nbsp; <kbd>Mobile Developer</kbd>
   </p>
-  <!-- <div>
-    
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SatyamPrakash09.SatyamPrakash09&"  />
+
+  <div align="left">
+    <code>➜ /home/satyam/profile (main) ✗ cat .env.socials</code>
+  </div>
+  <br/>
   
-    [![GitHub followers](https://img.shields.io/github/followers/SatyamPrakash09?style=for-the-badge)](https://github.com/SatyamPrakash09)
-  </div> -->
+  <a href="https://www.linkedin.com/in/satyamprakash09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/satyamprakash09"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:satyamprakash996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/prakash_satyam_06/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=SatyamPrakash09&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" />
 </div>
 
+<br/>
 
-  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/contribution-graph.svg"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-<!--
-### 📖 About Me
-```yaml
-🧑‍💻  Name        : Satyam Prakash
-🎯  Focus       : Applied AI Full-Stack , Mobile Development , Agentic AI
-🌱  Learning    : React Native · AI/ML Integration · IoT · ESP32 · Applied AI
-💬  Ask me about: JavaScript · TypeScript · Python · React · Langchain · Gen-AI · Applied AI · IoT · Automations
-⚡  Fun Fact    : I don't have bugs; I just have undocumented gravitational anomalies. 🕳️
-📍  Location    : Greater Noida, India
+## 👨‍💻 `src/about_me.py`
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Satyam Prakash"
+        self.role = "Passionate Developer & Problem Solver"
+        self.location = "Greater Noida, India"
+        self.learning = ["Applied AI", "Agentic Workflows (LangChain)", "Backend-Engineering", "AIoT Automation"]
+        self.fun_fact = "I don't have bugs; I just have undocumented gravitational anomalies. 🕳️"
+
+    def get_current_focus(self):
+        return (
+            "Building seamless cross-platform mobile apps with React Native & Expo, "
+            "and diving deep into the TypeScript ecosystem."
+        )
+        
+    def collaborate(self):
+        return "Ask me about React, JavaScript, IoT, Applied AI, or why Bun is a game-changer!"
+
+me = Developer()
 ```
--->
+## 🛠️ Tech Arsenal
 
-I am a passionate developer who loves building mobile applications and robust web applications. Currently, I'm diving deep into the **React Native** ecosystem and exploring the nuances of **TypeScript**.
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="center" width="20%"><b>Frontend & Mobile</b></td>
+    <td align="center" width="20%"><b>Backend & DB</b></td>
+    <td align="center" width="20%"><b>AI / ML</b></td>
+    <td align="center" width="20%"><b>IoT & Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JS" title="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TS" title="TypeScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Py" title="Python" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" title="C++" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java" />
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" title="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" height="35" alt="React Native" title="React Native" />&nbsp;
+      <img src="https://cdn.simpleicons.org/expo/000000" height="35" alt="Expo" title="Expo" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="Tailwind" title="Tailwind CSS" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="Vite" title="Vite" />
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node" title="Node.js" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=express" height="35" alt="Express" title="Express.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="35" alt="Bun" title="Bun" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="Mongo" title="MongoDB" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" title="MySQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="FastAPI" title="FastAPI" />
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter" title="Jupyter" />&nbsp;
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="35" alt="LangChain" title="LangChain" />
+      <br/><br/>
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="35" alt="Colab" title="Google Colab" />
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="Arduino" title="Arduino" />&nbsp;
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" alt="ESP32" title="ESP32" />
+      <br/><br/>
+      <img src="https://cdn.simpleicons.org/vercel/000000" height="35" alt="Vercel" title="Vercel" />&nbsp;
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="Netlify" title="Netlify" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Working on:** Building seamless cross-platform mobile apps with **Expo**.
-- 🌱 **Learning:** Applied AI · Agentic Workflows (LangChain) · Backend-Engineering · AIoT Automation
-- 💬 **Ask me about:** React, JavaScript,IoT,Applied AI or why I think Bun is a game-changer.
-
----
-
-## 🌐 Connect with Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamprakash09/)
-[![Discord](https://img.shields.io/badge/Discord-satyamprakash09-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/satyamprakash09)
-[![Instagram](https://img.shields.io/badge/Instagram-@prakash__satyam__06-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakash_satyam_06/)
-[![Gmail](https://img.shields.io/badge/Gmail-satyamprakash996-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamprakash996@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SatyamPrakash09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatyamPrakash09)
-
-</div>
-
----
- 
-## 💻 Tech Stack
- 
-### 🖥️ Languages
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-</div>
-
-### 📱 Frontend & Mobile
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" height="40" alt="React Native" title="React Native" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/expo/ffffff" height="40" alt="Expo" title="Expo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-</div>
-
-### ⚙️ Backend & Databases
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="Bun" title="Bun" />
-</div>
-
-### 🤖 AI / ML
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="40" alt="LangChain" title="LangChain" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" height="40" alt="Google Colab" title="Google Colab" />
-</div>
-
-### 🔌 IoT & Embedded
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" height="40" alt="Espressif / ESP32" title="Espressif / ESP32" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" height="40" alt="PlatformIO" title="PlatformIO" />
-</div>
-
-### 🚀 Deployment & Cloud
- 
-<div align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="40" alt="Vercel" title="Vercel" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" height="40" alt="Netlify" title="Netlify" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" height="40" alt="Render" title="Render" />
-</div>
-
-### 🛠️ Dev Environment
- 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" title="PyCharm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-</div>
+<br/>
 
 
----
 
-## 🐾 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph.svg">
-</picture>
-
-
----
-
-## 📈 Contribution Activity
-
-
-<!-- Activity graph: separate service from readme-stats — generally more reliable -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPrakash09&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&area_color=0891b210&hide_border=true&theme=react-dark" />
+  <!-- Pac-Man Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/SatyamPrakash09/SatyamPrakash09/output/pacman-contribution-graph.svg" width="80%">
+  </picture>
 </div>
+
+<br/>
+
+
+<br/>
 
 ---
 
-
-<br/><br/>
 <div align="center">
-  
-*"First, solve the problem. Then, write the code." — John Johnson*
-</div>
-
+  <code>➜ /home/satyam/profile (main) ✗ git commit -m "fix: everything"</code>
+  <p><i>"Programming is like being the detective in a crime movie where you are also the murderer." — Filipe Fortes</i></p>
 </div>
