@@ -31,23 +31,43 @@
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Satyam Prakash"
-        self.role = "Passionate Developer & Problem Solver"
-        self.location = "Greater Noida, India"
-        self.learning = ["Applied AI", "Agentic Workflows (LangChain)", "Backend-Engineering", "AIoT Automation"]
-        self.fun_fact = "I don't have bugs; I just have undocumented gravitational anomalies. 🕳️"
+def **init**(self):
+self.name = "Satyam Prakash"
+self.role = "AI Engineer & Problem Solver"
+self.location = "Greater Noida, India"
+self.learning = [
+        "Applied AI",
+        "Agentic AI & Tool-Using LLMs",
+        "LangGraph & LangChain",
+        "Backend Engineering",
+        "AIoT Automation",
+        "Open Source"
+]
+self.projects = [
+        "Lumen AI",
+        "AutoBot",
+        "PatchPilot"
+]
+self.fun_fact = (
+"I don't have bugs; I just have undocumented gravitational anomalies. 🕳️"
+)
 
-    def get_current_focus(self):
-        return (
-            "Building seamless cross-platform mobile apps with React Native & Expo, "
-            "and diving deep into the TypeScript ecosystem."
-        )
-        
-    def collaborate(self):
-        return "Ask me about React, JavaScript, IoT, Applied AI, or why Bun is a game-changer!"
+def get_current_focus(self):
+    return (
+        "Building intelligent AI agents that can reason, use tools, "
+        "interact with codebases, and automate real-world workflows, "
+        "while strengthening my backend engineering and systems skills."
+    )
+
+def collaborate(self):
+    return (
+        "Ask me about Applied AI, Agentic Workflows, LangGraph, "
+        "LangChain, Python, Backend Engineering, AIoT, "
+        "or building tools for LLMs."
+    )
 
 me = Developer()
+
 ```
 ## 🛠️ Tech Arsenal
 
